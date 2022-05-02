@@ -1,3 +1,4 @@
+# old and simple version, there may be flaws
 import random
 import requests
 import os
